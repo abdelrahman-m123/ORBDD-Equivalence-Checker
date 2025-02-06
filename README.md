@@ -14,10 +14,10 @@ This App takes two Boolean functions and Constructs their Reduced Ordered Binary
 ## Screenshots
 
 <h3>Application Test-1</h3>
-<img src=""/>
+<img src="Test1.jpg"/>
 <h3>Graph Test-1</h3>
-<img src="Test1_graph"/>
+<img src="Test1_graph.jpg"/>
 <h3>Application Test-2</h3>
-<img src=""/>
+<img src="Test2.jpg"/>
 <h3>Graph Test-2</h3>
-<img src=""/>
+<img src="Test2_graph.jpg"/>
