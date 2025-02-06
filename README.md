@@ -13,5 +13,11 @@ This App takes two Boolean functions and Constructs their Reduced Ordered Binary
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+<h3>Application Test-1</h3>
+<img src=""/>
+<h3>Graph Test-1</h3>
+<img src="Test1_graph"/>
+<h3>Application Test-2</h3>
+<img src=""/>
+<h3>Graph Test-2</h3>
+<img src=""/>
